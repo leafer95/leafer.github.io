@@ -16,3 +16,21 @@ Icon: https://repo.cypwn.xyz/packages/AniTime-Rootless/icon.png
 Name: AniTime
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/3117
 
+Package: xyz.cypwn.amonglock
+Version: 1.1.6
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: debs/xyz.cypwn.amonglock_1.1.6_iphoneos-arm64.deb
+Size: 20768718
+MD5sum: be75469d2fb6939dda9f71003f79228d
+SHA1: 701e22d84abd5d0dbb7cfcde8ceb8222e370648e
+SHA256: d2cde81552df42bac2588cffae8c86d86017f7f46b3a4c7e7bddb21012029eda
+Section: Tweaks
+Description: You were not the owner of this device.
+Author: Litten
+Depiction: https://repo.cypwn.xyz/depiction/2831
+Icon: https://repo.cypwn.xyz/packages/AmongLock-Rootless/icon.png
+Name: AmongLock
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/2831
+
