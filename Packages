@@ -34,3 +34,21 @@ Icon: https://repo.cypwn.xyz/packages/AmongLock-Rootless/icon.png
 Name: AmongLock
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/2831
 
+Package: xyz.cypwn.stella
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: debs/xyz.cypwn.stella_1.1.3_iphoneos-arm64.deb
+Size: 495540
+MD5sum: 9308db589c531f81fff3eb88b809548f
+SHA1: 41aef9dd1c747b1e7c4afd42ff86612752580e1a
+SHA256: c717edadbb7189a9abf1fa03ec6b5902130dbe3fab3c8c7b228fab495bfbc342
+Section: Tweaks
+Description: Let it snow on your device!
+Author: yan
+Depiction: https://repo.cypwn.xyz/depiction/2953
+Icon: https://repo.cypwn.xyz/packages/Stella-Rootless/icon.png
+Name: Stella
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/2953
+
