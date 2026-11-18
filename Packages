@@ -1,0 +1,18 @@
+Package: com.yan.anitime
+Version: 1.0.1k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.ginsu.comet
+Filename: debs/xyz.cypwn.anitime_1.0.1k_iphoneos-arm64.deb
+Size: 598126
+MD5sum: 47096937b99c83703dfa6611d00e5a8e
+SHA1: 32cf4a5e687643489c3b06e7a5c1236868ce1726
+SHA256: 73b144e4c7d0fece45e0bef531b4b2b2b12dfde5479564a659eaf26f5e1ec699
+Section: Tweaks
+Description: Animated anime characters as your clock digits.
+Author: yan
+Depiction: https://repo.cypwn.xyz/depiction/3117
+Icon: https://repo.cypwn.xyz/packages/AniTime-Rootless/icon.png
+Name: AniTime
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/3117
+
