@@ -1,3 +1,24 @@
+Package: com.cureux.cc26
+Version: 0.4.9.9b
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: debs/xyz.cypwn.cc26_0.4.9.9b_iphoneos-arm64.deb
+Size: 41606
+MD5sum: ef19b57030421173bcd16b9bfa94591e
+SHA1: bc15e7741000c7f6feef9eee1e4a700335500f47
+SHA256: 69364b065391d83a640cb46a6f04580a856f6ac41770f3a5910b8f6fbca3cea2
+Section: Tweaks
+Description: A sleek reimagination of Control Center.
+Author: therealhoodboy
+Depiction: https://repo.cypwn.xyz/depiction/3279
+Icon: https://repo.cypwn.xyz/packages/CC26-Rootless/icon.png
+Name: CC26
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/3279
+
 Package: com.yan.anitime
 Version: 1.0.1k
 Architecture: iphoneos-arm64
