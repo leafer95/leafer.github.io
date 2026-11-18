@@ -15,7 +15,7 @@
 2. Перейдите во вкладку **Источники** (Sources) и нажмите **`+`**.
 3. Вставьте ссылку на репозиторий:
    ```text
-   https://github.io
+   https://leafer95.github.io/leafer.github.io/
    ```
 
 ---
