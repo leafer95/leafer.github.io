@@ -19,22 +19,6 @@ Icon: https://repo.cypwn.xyz/packages/CC26-Rootless/icon.png
 Name: CC26
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/3279
 
-Package: com.iosdump.zone
-Version: 2.1.0
-Architecture: iphoneos-arm
-Maintainer: iosdump
-Installed-Size: 1164
-Depends: mobilesubstrate, preferenceloader, unzip, com.opa334.ccsupport
-Filename: debs/com.iosdump.zone_2.1.0_iphoneos-arm.deb
-Size: 209734
-MD5sum: f8add5210d65fdf7bf913d3e12390e9f
-SHA1: c67518deaa05e3fa4d765561146efca2e38372f5
-SHA256: 6dad62d084329004a26e5369313d0d790156706d26da2059a46a0a77b373c935
-Section: Tweaks
-Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
-Author: iosdump
-Name: Zone
-
 Package: com.rpgfarm.a-font
 Version: 1.10.1
 Architecture: iphoneos-arm64
